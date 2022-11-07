@@ -3,6 +3,7 @@ package com.example.fletes;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
+import android.widget.TextView;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
@@ -62,6 +63,13 @@ public class NavigationActivity extends AppCompatActivity {
             miMenu.findItem(R.id.nav_ver_pedidos).setEnabled(true);
             miMenu.findItem(R.id.nav_mis_fletes).setEnabled(true);
         }
+        TextView tvUsuarioAEnviar = (TextView) findViewById(R.id.tvUsuarioGeneral);
+        tvUsuarioAEnviar.setText(usuario);
+        TextView tvUsuario = (TextView) findViewById(R.id.tvUsuario);
+        if (tvUsuario.getText().equals("Usuario: ")) {
+            tvUsuario.setText(tvUsuario.getText().toString() + usuario);
+        }
+
     }
 
     @Override

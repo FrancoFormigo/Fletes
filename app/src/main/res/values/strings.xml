@@ -19,9 +19,36 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
-
+    <string name="tvHora">Hora:</string>
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="tvBienvenido">Bienvenido!</string>
+    <string name="tvHead">Mis Pedidos</string>
+    <string name="tvId">Id</string>
+    <string name="tvPeso">Peso (Kg)</string>
+    <string name="tvOrigen">Origen</string>
+    <string name="tvDestino">Destino</string>
+    <string name="tvFletero">Fletero</string>
+    <string name="tvMisPedidos">Mis Pedidos</string>
+    <string name="tvPedidosAsignados">Pedidos aceptados</string>
+    <string name="tvTelefono">Telefono</string>
+    <string name="tvPedidos">Pedidos</string>
+    <string name="suipacha_984">Suipacha 984</string>
+    <string name="_1">1</string>
+    <string name="san_lorenzo_145">San Lorenzo 145</string>
+    <string name="_2">2</string>
+    <string name="_30_0">30.0</string>
+    <string name="_3">3</string>
+    <string name="_20_1">20.1</string>
+    <string name="saavedra_413">Saavedra 413</string>
+    <string name="_342_4523674">342-4523674</string>
+    <string name="_3_7">3.7</string>
+    <string name="_3437_492322">3437-492322</string>
+    <string name="_342_4588999">342-4588999</string>
+    <string name="_3437_492344">3437-492344</string>
+    <string name="corrientes_312">Corrientes 312</string>
+    <string name="_3_66">3.66</string>
+    <string name="_342_4523633">342-4523633</string>
+    <string name="tvConfirmar">Confirmar</string>
 </resources>
